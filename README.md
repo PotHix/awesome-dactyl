@@ -10,6 +10,20 @@ keyboards are the best.
 * [Easy-to-print ortholinear dactyl-like keyboard](https://github.com/ramonimbao/dactyl-ez2print)
 * [Dactyl manuform keyboard](https://github.com/abstracthat/dactyl-manuform)
 * [dactyl-cc keyboard takes a different approach to code and is more similar the Kinesis Advantage 2](https://github.com/mjohns/dactyl-cc)
+* [trochee: a one handed dactyl-like keyboard](https://github.com/porkostomus/trochee)
+
+## Build log
+
+### dactyl-cc
+
+* [Dactyl-cc with promicros](https://imgur.com/a/68ReQeh)
+
+
+## Design inspiration
+
+* [Vintage dactyl](https://www.reddit.com/r/MechanicalKeyboards/comments/79io6i/vintage_dactyl/)
+* [Dactyl with gel pads for wrist rest](https://imgur.com/a/oMtpd)
+
 
 ## License
 
