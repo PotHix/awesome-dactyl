@@ -46,6 +46,7 @@ keyboads
 
 * [Dactyl manuform with LEDs and printed wrist rest](https://imgur.com/a/3xqx0M3)
 * [Series of videos on building the dactyl manuform from scratch](https://www.youtube.com/watch?v=dWC_8BOArzc) [1](https://www.youtube.com/watch?v=dWC_8BOArzc), [2](https://www.youtube.com/watch?v=fDc6rjZGYiI), [3](https://www.youtube.com/watch?v=r-CKnaoSmCk), [4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
+* [20lives build of dactyl manuform with links to all parts](https://github.com/20lives/Dactyl-Manuform)
 
 
 ## Design inspiration
