@@ -53,6 +53,7 @@ keyboads
 * [20lives build of dactyl manuform with links to all parts](https://github.com/20lives/Dactyl-Manuform)
 * [Dactyl manuform "mini"](https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/)
 * [Dactyl manuform tight](https://github.com/okke-formsma/dactyl-manuform-tight) ([photos](https://imgur.com/gallery/YePWDY5))
+* [Track beast: A trackball Dactyl-manuform](https://medium.com/@kincade/track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222)
 
 
 ## Design inspiration
@@ -63,6 +64,7 @@ much information about them.
 * [Vintage dactyl](https://www.reddit.com/r/MechanicalKeyboards/comments/79io6i/vintage_dactyl/)
 * [Dactyl with gel pads for wrist rest](https://imgur.com/a/oMtpd)
 * [Bluetooth enabled Dactyl Manuform Mini](https://www.reddit.com/r/MechanicalKeyboards/comments/ejqas3/bluetooth_enabled_dactyl_manuform_mini/)
+* [Redox manuform](https://www.reddit.com/r/MechanicalKeyboards/comments/bb5d7e/p_redox_manuform/)
 
 
 ## License
