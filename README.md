@@ -22,7 +22,11 @@ The categorization is done mostly by appearance and user experience.
 
 ### Manuform
 
-* [dactyl-manuform: This is a fork of the Dactyl, a parameterized, split-hand, concave, columnar, ergonomic keyboard.](https://github.com/abstracthat/dactyl-manuform)
+* [dactyl-manuform: A fork of the Dactyl, a parameterized, split-hand, concave, columnar, ergonomic keyboard.](https://github.com/abstracthat/dactyl-manuform)
+* [dactyl-mini-thumb: Reduces thumb keys to three on each hand.](https://github.com/aleung/mini-thumb-dactyl-keyboard)
+* [dactyl-manuform-mini-keyborad: Dactyl ManuForm Mini Keyboard with buildlog](https://github.com/bstiq/dactyl-manuform-mini-keyboard)
+* [dactyl-manudox: A combination of the Dactyl, the Manuform and the ErgoDox keyboards](https://github.com/phillipthelen/dactyl-keyboard)
+* [dmote: The Dactyl-ManuForm keyboard: Opposable Thumb Edition](https://github.com/tleytek/dactyl-keyboard)
 
 ### Kinesis
 
@@ -47,6 +51,8 @@ keyboads
 * [Dactyl manuform with LEDs and printed wrist rest](https://imgur.com/a/3xqx0M3)
 * [Series of videos on building the dactyl manuform from scratch](https://www.youtube.com/watch?v=dWC_8BOArzc) [1](https://www.youtube.com/watch?v=dWC_8BOArzc), [2](https://www.youtube.com/watch?v=fDc6rjZGYiI), [3](https://www.youtube.com/watch?v=r-CKnaoSmCk), [4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
 * [20lives build of dactyl manuform with links to all parts](https://github.com/20lives/Dactyl-Manuform)
+* [Dactyl manuform "mini"](https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/)
+* [Dactyl manuform tight](https://github.com/okke-formsma/dactyl-manuform-tight) ([photos](https://imgur.com/gallery/YePWDY5))
 
 
 ## Design inspiration
