@@ -25,14 +25,19 @@ The categorization is done mostly by appearance and user experience.
 * [dactyl-manuform: A fork of the Dactyl, a parameterized, split-hand, concave, columnar, ergonomic keyboard.](https://github.com/abstracthat/dactyl-manuform)
 * [dactyl-mini-thumb: Reduces thumb keys to three on each hand.](https://github.com/aleung/mini-thumb-dactyl-keyboard)
 * [dactyl-manuform-mini-keyborad: Dactyl ManuForm Mini Keyboard with buildlog](https://github.com/bstiq/dactyl-manuform-mini-keyboard)
+* [dactyl-manuform-micro: a fork of dactyl-mini with some improvements](https://github.com/klesh/dactyl-manuform-micro)
 * [dactyl-manudox: A combination of the Dactyl, the Manuform and the ErgoDox keyboards](https://github.com/phillipthelen/dactyl-keyboard)
 * [dmote: The Dactyl-ManuForm keyboard: Opposable Thumb Edition](https://github.com/tleytek/dactyl-keyboard)
 * [dactyl-manuform: manuform with some extra flags for mini parts (`lein generate` needed)](https://github.com/carbonfet/dactyl-manuform)
 * [smaller-dactyl: A fork of the Dactyl-Manuform-Mini](https://github.com/tleytek/Smaller-Dactyl)
+* [custom-bluetooth-dactyl-manuform: not parametric and highly customized](https://github.com/jamiehs/custom-bluetooth-dactyl-manuform)
+* [dactyl-keyboard-python: a fork of manuform mixed with Ergodox done with SolidPython](https://github.com/helmecke/dactyl-keyboard)
+* [dactyl-simplethumb: a fork of the dactyl manuform with 3 keys on the thumb cluster](https://github.com/asdacap/dactyl-simplethumb)
 
 ### Kinesis
 
 * [dactyl-cc: a keyboard that takes a different approach to code and is more similar the Kinesis Advantage 2](https://github.com/mjohns/dactyl-cc)
+* [STONER: a fork of dactyl-cc with some adjustments](https://github.com/simonjohansson/the-best-keyboard-in-the-universe)
 
 ### Other
 
@@ -47,6 +52,7 @@ keyboads
 ### dactyl-cc
 
 * [Dactyl-cc with promicros](https://imgur.com/a/68ReQeh)
+* [Dactyl-cc by the book](https://imgur.com/gallery/Y3lbhb8)
 
 ### dactyl-manuform
 
