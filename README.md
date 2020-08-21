@@ -27,6 +27,7 @@ The categorization is done mostly by appearance and user experience.
 * [dactyl-manuform-mini-keyborad: Dactyl ManuForm Mini Keyboard with buildlog](https://github.com/bstiq/dactyl-manuform-mini-keyboard)
 * [dactyl-manudox: A combination of the Dactyl, the Manuform and the ErgoDox keyboards](https://github.com/phillipthelen/dactyl-keyboard)
 * [dmote: The Dactyl-ManuForm keyboard: Opposable Thumb Edition](https://github.com/tleytek/dactyl-keyboard)
+* [dactyl-manuform: manuform with some extra flags for mini parts (`lein generate` needed)](https://github.com/carbonfet/dactyl-manuform)
 
 ### Kinesis
 
