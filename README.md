@@ -33,6 +33,7 @@ The categorization is done mostly by appearance and user experience.
 * [custom-bluetooth-dactyl-manuform: not parametric and highly customized](https://github.com/jamiehs/custom-bluetooth-dactyl-manuform)
 * [dactyl-keyboard-python: a fork of manuform mixed with Ergodox done with SolidPython](https://github.com/helmecke/dactyl-keyboard)
 * [dactyl-simplethumb: a fork of the dactyl manuform with 3 keys on the thumb cluster](https://github.com/asdacap/dactyl-simplethumb)
+* [ferro-dactyl: A BluePill (STM32F103) based Dactyl-Manuform build with keyberon powered firmware written in Rust](https://github.com/wose/ferro-dactyl)
 
 ### Kinesis
 
@@ -73,6 +74,7 @@ much information about them.
 * [Dactyl with gel pads for wrist rest](https://imgur.com/a/oMtpd)
 * [Bluetooth enabled Dactyl Manuform Mini](https://www.reddit.com/r/MechanicalKeyboards/comments/ejqas3/bluetooth_enabled_dactyl_manuform_mini/)
 * [Redox manuform](https://www.reddit.com/r/MechanicalKeyboards/comments/bb5d7e/p_redox_manuform/)
+* [Dactyl manuform R-track](https://imgur.com/a/TDE640k) - [reddit thread](https://www.reddit.com/r/MechanicalKeyboards/comments/g3aue6/the_dactylmanuformrtrack_with_qmk_features_on_a/)
 
 
 ## License
