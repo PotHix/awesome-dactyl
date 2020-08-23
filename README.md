@@ -8,10 +8,10 @@ keyboards are the best.
 ## Models
 
 This list split all dactyl-like keyboads by their inspiration. Most (if not
-all) of them have an inspiration on dactyl, but if they got inspiration from a
-different keyboard as well, it will be added to this keyboard category.
-
-The categorization is done mostly by appearance and user experience.
+all) of them have an inspiration on the origial dactyl, but there are many
+forks adapting it to use parts from other keyboards as well. They a secondary
+inspiration is found, we will use it as a priority (since this repository is
+already about dactyl 😛)
 
 ### Dactyl
 
@@ -40,15 +40,16 @@ The categorization is done mostly by appearance and user experience.
 * [dactyl-cc: a keyboard that takes a different approach to code and is more similar the Kinesis Advantage 2](https://github.com/mjohns/dactyl-cc)
 * [STONER: a fork of dactyl-cc with some adjustments](https://github.com/simonjohansson/the-best-keyboard-in-the-universe)
 
-### Other
+### Maltron
 
 * [trochee: a one handed dactyl-like keyboard](https://github.com/porkostomus/trochee)
 
 
 ## Build log
 
-A list of people posting the step by step of building their dactyl-like
-keyboads
+A list of build logs from various people around the internet. Different from
+the list above, it will focus on the keyboard name instead of the insperation
+model.
 
 ### dactyl-cc
 
@@ -67,14 +68,35 @@ keyboads
 
 ## Design inspiration
 
-This category is mostly for dactyl-like keyboards that are nice but there's not
-much information about them.
+A list of dactyl-like keyboards that are nice but there's not much information
+about them. They are included here as a showcase of what your dactyl-like
+keyboard can look like.
 
 * [Vintage dactyl](https://www.reddit.com/r/MechanicalKeyboards/comments/79io6i/vintage_dactyl/)
 * [Dactyl with gel pads for wrist rest](https://imgur.com/a/oMtpd)
 * [Bluetooth enabled Dactyl Manuform Mini](https://www.reddit.com/r/MechanicalKeyboards/comments/ejqas3/bluetooth_enabled_dactyl_manuform_mini/)
 * [Redox manuform](https://www.reddit.com/r/MechanicalKeyboards/comments/bb5d7e/p_redox_manuform/)
 * [Dactyl manuform R-track](https://imgur.com/a/TDE640k) - [reddit thread](https://www.reddit.com/r/MechanicalKeyboards/comments/g3aue6/the_dactylmanuformrtrack_with_qmk_features_on_a/)
+
+
+## How it looks like
+
+Still not impressed? Here is a list of pictures of some good looking (according
+to the repo's owner taste, of course) dactyl keyboards for your appreciation.
+
+![](images/https%%%github.com%20lives%Dactyl-Manuform.jpeg)
+![](images/https%%%github.com%adereth%dactyl-keyboard.png)
+![](images/https%%%github.com%aleung%mini-thumb-dactyl-keyboard.jpg)
+![](images/https%%%github.com%bstiq%dactyl-manuform-mini-keyboard.jpg)
+![](images/https%%%github.com%jamiehs%custom-bluetooth-dactyl-manuform.jpg)
+![](images/https%%%github.com%mjohns%dactyl-cc.jpeg)
+![](images/https%%%github.com%nickcoutsos%dactyl-flatpacked.jpg)
+![](images/https%%%imgur.com%a%3xqx0M3.jpg)
+![](images/https%%%imgur.com%a%oMtpd.jpg)
+![](images/https%%%imgur.com%gallery%YePWDY5.jpeg)
+![](images/https%%%medium.com%@kincade%track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222-2.jpeg)
+![](images/https%%%medium.com%@kincade%track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222.jpeg)
+![](images/https%%%www.reddit.com%r%MechanicalKeyboards%comments%79io6i%vintage_dactyl.jpg)
 
 
 ## License
