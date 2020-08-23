@@ -84,19 +84,19 @@ keyboard can look like.
 Still not impressed? Here is a list of pictures of some good looking (according
 to the repo's owner taste, of course) dactyl keyboards for your appreciation.
 
-![](images/https%%%github.com%20lives%Dactyl-Manuform.jpeg)
-![](images/https%%%github.com%adereth%dactyl-keyboard.png)
-![](images/https%%%github.com%aleung%mini-thumb-dactyl-keyboard.jpg)
-![](images/https%%%github.com%bstiq%dactyl-manuform-mini-keyboard.jpg)
-![](images/https%%%github.com%jamiehs%custom-bluetooth-dactyl-manuform.jpg)
-![](images/https%%%github.com%mjohns%dactyl-cc.jpeg)
-![](images/https%%%github.com%nickcoutsos%dactyl-flatpacked.jpg)
-![](images/https%%%imgur.com%a%3xqx0M3.jpg)
-![](images/https%%%imgur.com%a%oMtpd.jpg)
-![](images/https%%%imgur.com%gallery%YePWDY5.jpeg)
-![](images/https%%%medium.com%@kincade%track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222-2.jpeg)
-![](images/https%%%medium.com%@kincade%track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222.jpeg)
-![](images/https%%%www.reddit.com%r%MechanicalKeyboards%comments%79io6i%vintage_dactyl.jpg)
+![](images/https%25%25%25github.com%2520lives%25Dactyl-Manuform.jpeg)
+![](images/https%25%25%25github.com%25adereth%25dactyl-keyboard.png)
+![](images/https%25%25%25github.com%25aleung%25mini-thumb-dactyl-keyboard.jpg)
+![](images/https%25%25%25github.com%25bstiq%25dactyl-manuform-mini-keyboard.jpg)
+![](images/https%25%25%25github.com%25jamiehs%25custom-bluetooth-dactyl-manuform.jpg)
+![](images/https%25%25%25github.com%25mjohns%25dactyl-cc.jpeg)
+![](images/https%25%25%25github.com%25nickcoutsos%25dactyl-flatpacked.jpg)
+![](images/https%25%25%25imgur.com%25a%253xqx0M3.jpg)
+![](images/https%25%25%25imgur.com%25a%25oMtpd.jpg)
+![](images/https%25%25%25imgur.com%25gallery%25YePWDY5.jpeg)
+![](images/https%25%25%25medium.com%25@kincade%25track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222-2.jpeg)
+![](images/https%25%25%25medium.com%25@kincade%25track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222.jpeg)
+![](images/https%25%25%25www.reddit.com%25r%25MechanicalKeyboards%25comments%2579io6i%25vintage_dactyl.jpg)
 
 
 ## License
