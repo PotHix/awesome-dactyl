@@ -5,6 +5,8 @@
 This is a curated list of dactyl-like keyboards for those who think concave
 keyboards are the best.
 
+[TL;DR: It's a curated lists to build beautiful keyboards like these 😍](#how-it-looks-like)
+
 ## Models
 
 This list split all dactyl-like keyboads by their inspiration. Most (if not
