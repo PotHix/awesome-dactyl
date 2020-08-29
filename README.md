@@ -36,6 +36,7 @@ already about dactyl 😛)
 * [dactyl-keyboard-python: a fork of manuform mixed with Ergodox done with SolidPython](https://github.com/helmecke/dactyl-keyboard)
 * [dactyl-simplethumb: a fork of the dactyl manuform with 3 keys on the thumb cluster](https://github.com/asdacap/dactyl-simplethumb)
 * [ferro-dactyl: A BluePill (STM32F103) based Dactyl-Manuform build with keyberon powered firmware written in Rust](https://github.com/wose/ferro-dactyl)
+* [tracer: a mix of manuform and dactyl-cc mini](https://github.com/mjohns/tracer)
 
 ### Kinesis
 
