@@ -37,6 +37,7 @@ already about dactyl 😛)
 * [dactyl-simplethumb: a fork of the dactyl manuform with 3 keys on the thumb cluster](https://github.com/asdacap/dactyl-simplethumb)
 * [ferro-dactyl: A BluePill (STM32F103) based Dactyl-Manuform build with keyberon powered firmware written in Rust](https://github.com/wose/ferro-dactyl)
 * [tracer: a mix of manuform and dactyl-cc mini](https://github.com/mjohns/tracer)
+* [Dactyl manuform high-profile: re-implementation of the Dactyl Manuform Tight in python, with a few changes](https://github.com/JPricey/dactyl-high-profile)
 
 ### Kinesis
 
@@ -46,6 +47,12 @@ already about dactyl 😛)
 ### Maltron
 
 * [trochee: a one handed dactyl-like keyboard](https://github.com/porkostomus/trochee)
+
+### Others
+
+These do not fit in any section above, but are still worth mentioning
+
+* [Skeletyl: Compact and silent Dactyl-like keyboard for ergo lovers](https://github.com/Bastardkb/Skeletyl)
 
 
 ## Build log
