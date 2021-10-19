@@ -53,6 +53,7 @@ already about dactyl 😛)
 These do not fit in any section above, but are still worth mentioning
 
 * [Skeletyl: Compact and silent Dactyl-like keyboard for ergo lovers](https://github.com/Bastardkb/Skeletyl)
+* [Dactyl Chimera: Designed for 3D printing, tinkering, and experimentation](https://github.com/WolfIcefang/dactyl-chimera-keyboard/)
 
 
 ## Build log
