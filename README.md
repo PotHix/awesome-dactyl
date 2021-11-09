@@ -17,7 +17,7 @@ already about dactyl 😛)
 
 ### Dactyl
 
-* [dactyl-keyboard: the original and fater of all dactyl-keyboads](https://github.com/adereth/dactyl-keyboard)
+* [dactyl-keyboard: the original and father of all dactyl-keyboads](https://github.com/adereth/dactyl-keyboard)
 * [dactyl-ez2print: Easy-to-print ortholinear dactyl-like keyboard](https://github.com/ramonimbao/dactyl-ez2print)
 * [dactyl-flatpacked: A reimagined dactyl using slotted rib pieces to create the countoured surface instead of a solid 3D printed part.](https://github.com/nickcoutsos/dactyl-flatpacked/)
 * [dactyl-deskmount: A variant of the dactyl-keyboard that doesn't impose significant extra height above my desk surface.](https://github.com/nickcoutsos/dactyl-deskmount/)
