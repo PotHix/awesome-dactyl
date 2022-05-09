@@ -39,6 +39,7 @@ already about dactyl 😛)
 * [ferro-dactyl: A BluePill (STM32F103) based Dactyl-Manuform build with keyberon powered firmware written in Rust](https://github.com/wose/ferro-dactyl)
 * [tracer: a mix of manuform and dactyl-cc mini](https://github.com/mjohns/tracer)
 * [Dactyl manuform high-profile: re-implementation of the Dactyl Manuform Tight in python, with a few changes](https://github.com/JPricey/dactyl-high-profile)
+* [Dactyl manuform gimbal: A dactyl manuform merged with an RC controller](https://github.com/sffubs/dactyl_manuform_gimbal)
 
 ### Kinesis
 
